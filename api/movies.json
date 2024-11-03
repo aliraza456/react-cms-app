@@ -1,0 +1,142 @@
+{
+    "mediaItems": [
+      {
+        "id": "1",
+        "title": "Ragnarok",
+        "status": "Published",
+        "genreId": "1",
+        "description": "In a Norwegian town poisoned by pollution and rattled by melting glaciers, the end times feel all too real. Only a legendary hero can stop an ancient evil.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg",
+        "uploadDate": "2024-01-15"
+      },
+      {
+        "id": "2",
+        "title": "Five Feet Apart",
+        "status": "Draft",
+        "genreId": "3",
+        "description": "Two teenagers with cystic fibrosis meet in a hospital and fall in love, but their disease means they must avoid close physical contact.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg",
+        "uploadDate": "2023-12-20"
+      },
+      {
+        "id": "3",
+        "title": "The Walking Dead",
+        "status": "Published",
+        "genreId": "5",
+        "description": "In the wake of a zombie apocalypse, survivors struggle to stay alive and adapt in a world overrun by the undead.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+        "uploadDate": "2023-11-15"
+      },
+      {
+        "id": "4",
+        "title": "Ava",
+        "status": "Draft",
+        "genreId": "2",
+        "description": "A deadly assassin named Ava works for a black ops organization, traveling the globe specializing in high-profile hits. When a job goes dangerously wrong, she is forced to fight for her own survival.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvbyZ6qobXhStLOc7xQWQLTydQC.jpg",
+        "uploadDate": "2023-10-10"
+      },
+      {
+        "id": "5",
+        "title": "Extraction",
+        "status": "Published",
+        "genreId": "1",
+        "description": "A fearless black market mercenary embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0zlqWkZenD8kWCkomKQZADChd0.jpg",
+        "uploadDate": "2023-09-05"
+      },
+      {
+        "id": "6",
+        "title": "Rick and Morty",
+        "status": "Published",
+        "genreId": "2",
+        "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson as they explore the universe.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+        "uploadDate": "2023-08-18"
+      },
+      {
+        "id": "7",
+        "title": "See",
+        "status": "Draft",
+        "genreId": "4",
+        "description": "In a future where humankind has lost the ability to see, society has found new ways to interact, build, hunt, and survive. That is until a set of twins is born with the ability to see.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg",
+        "uploadDate": "2023-07-12"
+      },
+      {
+        "id": "8",
+        "title": "Machine Gun Preacher",
+        "status": "Published",
+        "genreId": "1",
+        "description": "Sam Childers, a former drug-dealing biker, finds God and becomes a crusader for hundreds of Sudanese children who've been forced to become soldiers.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg",
+        "uploadDate": "2023-06-22"
+      },
+      {
+        "id": "9",
+        "title": "Outside the Wire",
+        "status": "Published",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg",
+        "description": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+        "genreId": "5"
+      },
+      {
+        "id": "10",
+        "title": "Sweet Tooth",
+        "status": "Published",
+        "genreId": "4",
+        "description": "A boy who is half human and half deer survives in a post-apocalyptic world with other hybrids.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+        "uploadDate": "2023-04-30"
+      },
+      {
+        "id": "11",
+        "title": "Blue Miracle",
+        "status": "Draft",
+        "genreId": "2",
+        "description": "To save their orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg",
+        "uploadDate": "2023-03-25"
+      },
+      {
+        "id": "12",
+        "title": "Wednesday",
+        "status": "Published",
+        "genreId": "3",
+        "description": "Wednesday: Created by Alfred Gough, Miles Millar. With Jenna Ortega, Hunter Doohan, Emma Myers, Joy Sunday. Follows Wednesday Addams' years as a student.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzBmNTNkOWYtNzYxZS00YjBhLTkxNTktZmM4Y2E0ZTBmZWZiXkEyXkFqcGc@.V1.jpg",
+        "uploadDate": "2023-02-10"
+      },
+      {
+        "id": "2bff",
+        "title": "song",
+        "description": "bili jeans",
+        "genreId": "2",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE2OTQ0NjEtNmEwMC00NmRjLThiOGMtN2M1N2Q2YWY0NGY4XkEyXkFqcGc@.V1.jpg",
+        "status": "Published",
+        "uploadDate": "2024-11-12"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "genreName": "Action"
+      },
+      {
+        "id": "2",
+        "genreName": "Science Fiction"
+      },
+      {
+        "id": "3",
+        "genreName": "Romance"
+      },
+      {
+        "id": "4",
+        "genreName": "Thriller"
+      },
+      {
+        "id": "5",
+        "genreName": "Drama"
+      }
+    ]
+  }
